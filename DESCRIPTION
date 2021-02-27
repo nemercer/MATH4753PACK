@@ -1,0 +1,11 @@
+Package: MATH4753PACK
+Type: Package
+Title: RPackages for MATH4753
+Version: 0.1.0
+Author: Natalie Mercer
+Maintainer: Natalie Mercer <natalie.e.mercer-1@ou.edu>
+Description: RPackages for MATH4753 Spring2021
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
